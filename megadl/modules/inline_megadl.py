@@ -103,7 +103,7 @@ async def inline_megadl(client, query):
 **File Size:** `{readable_f_size}`
 **Url:** {url}
 
-**Powered by @NexaBotsUpdates**
+**Powered by @whatstarweshow**
 """
             d_inline_keyborad = [InlineKeyboardButton("PM Mega.nz-Bot", url=f"https://t.me/{(await client.get_me()).username}")]
             inline_down_butotns.append(d_inline_keyborad)
