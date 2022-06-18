@@ -128,7 +128,7 @@ Buttons = {
         [InlineKeyboardButton(
             "Source Code 🗂", url="https://github.com/")],
         [InlineKeyboardButton(
-            "Support Group 🆘", url="https://t.me/Nexa_bots")]
+            "Support Group 🆘", url="https://t.me/")]
     ],
 
     "cancel": [
