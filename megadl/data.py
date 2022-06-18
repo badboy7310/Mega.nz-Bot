@@ -15,7 +15,7 @@ Messages = {
   ✘ Wait Till It Download and Upload to Telegram.
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with ❤️**    
 """,
 
     "up": """
@@ -29,7 +29,7 @@ Messages = {
   ✘ Wait till It Download and Upload to Mega.nz
   
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️**
 """,
 
     "import": """
@@ -41,7 +41,7 @@ Messages = {
   ✘ Wait till It Finish
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with ❤️**    
 """,
 
     "file_info": """
@@ -53,7 +53,7 @@ Messages = {
   ✘ Type: `{uname} details` and after that give a one space and paste your mega.nz link (**Usage:** `{uname} details your_mega_link`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️**
 """,
 
     "acc_info": """
@@ -65,7 +65,7 @@ Messages = {
   ✘ Type: `{uname} info` (**Usage:** `{uname} info`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️**
 """
 }
 
@@ -118,7 +118,7 @@ Buttons = {
 
     "about": [
         [InlineKeyboardButton(
-            "Source Code 🗂", url="https://github.com/Itz-fork/Mega.nz-Bot")],
+            "Source Code 🗂", url="https://github.com/")],
 
         [InlineKeyboardButton("Back ⬅️", callback_data="startcallback"),
          InlineKeyboardButton("Close ❌", callback_data="closeqcb")]
@@ -126,7 +126,7 @@ Buttons = {
 
     "github": [
         [InlineKeyboardButton(
-            "Source Code 🗂", url="https://github.com/Itz-fork/Mega.nz-Bot")],
+            "Source Code 🗂", url="https://github.com/")],
         [InlineKeyboardButton(
             "Support Group 🆘", url="https://t.me/Nexa_bots")]
     ],
