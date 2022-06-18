@@ -15,8 +15,8 @@ class MegaTools:
     """
     Helper class to interact with megatools cli
 
-    Author: https://github.com/Itz-fork
-    Project: https://github.com/Itz-fork/Mega.nz-Bot
+    Author: https://github.com/thesatyamxyz
+    Project: https://github.com/
     """
 
     def __init__(self, cache_first=True) -> None:
